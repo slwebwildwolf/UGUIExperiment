@@ -46,6 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Game\Scripts\DragDropScene.cs" />
+     <Compile Include="Assets\Game\Scripts\DraggableObjectScene.cs" />
+     <Compile Include="Assets\Game\Scripts\InputTextScene.cs" />
+     <Compile Include="Assets\Game\Scripts\LoopingScrollview.cs" />
+     <Compile Include="Assets\Game\Scripts\ToggleScene.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />

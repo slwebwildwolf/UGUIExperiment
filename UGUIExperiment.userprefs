@@ -1,9 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\Interaction\TypewriterEffect.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\Interaction\UIDragDropItem.cs">
     <Files>
-      <File FileName="Assets\NGUI\Scripts\Interaction\UIPlayAnimation.cs" Line="1" Column="1" />
-      <File FileName="Assets\NGUI\Scripts\Interaction\TypewriterEffect.cs" Line="159" Column="34" />
+      <File FileName="Assets\NGUI Vs UGUI.txt" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Examples\Scripts\Other\WindowDragTilt.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Examples\Scripts\Other\ChatInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UITextList.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIKeyBinding.cs" Line="1" Column="1" />
+      <File FileName="Assets\DraggableObjectScene.cs" Line="23" Column="3" />
+      <File FileName="Assets\ToggleScene.cs" Line="8" Column="67" />
+      <File FileName="Assets\Game\Scenes\DragDropScene.cs" Line="28" Column="35" />
+      <File FileName="Assets\NGUI\Examples\Scripts\Other\ExampleDragDropItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIDragDropItem.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
